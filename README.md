@@ -102,4 +102,4 @@ http://127.0.0.1:5000
 
 **Shashank Shukla**  
 Email: [shashankshukla0105@gmail.com](mailto:shashankshukla0105@gmail.com)  
-LinkedIn: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/shashankshukla0806)
+LinkedIn: [linkedin.com/in/shashankshukla0806](https://www.linkedin.com/in/shashankshukla0806)
