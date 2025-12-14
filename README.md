@@ -1,4 +1,4 @@
-# Agentic AI Provider Data Validation System
+# Agentic AI–Inspired Provider Data Validation System (MVP)
 
 ## Problem
 
@@ -62,6 +62,13 @@ The system:
 4. Clean data is stored and low-score entries flagged
 5. PDF summary is generated
 6. Results displayed on dashboard
+
+## Why This Matters
+
+Provider data inaccuracies directly impact member experience, regulatory compliance, 
+and operational cost for healthcare payers. This project demonstrates how automated, 
+agent-style workflows can reduce manual verification effort and improve data quality 
+at scale.
 
 ## Setup & Run
 
